@@ -1,0 +1,131 @@
+body{
+        font-family: 'Poppins', sans-serif;
+}
+
+.transfer{
+        text-align: center;
+         padding: 5%;
+        background-image: url(donation7.jpg);
+         background-repeat: no-repeat;
+        color: white;
+}
+.transfer img{
+        width: 100%;
+}
+.link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange,tomato);
+        padding: 10px 40px ;
+        color: white;
+        font-weight: 700;
+        border-radius: 5px;
+}
+.button01{
+        text-decoration: none;
+        background-image: linear-gradient(rgba(255, 0, 0, 0.801),tomato);
+        padding: 2px 10px ;
+        color: white;
+        font-weight: 300;
+        border-radius: 5px;
+}
+.design{
+        text-align: center;
+        
+}
+.header1{
+        color: black;
+}
+h3{
+        color: #302c2c;
+        
+}
+h6{
+        color: gray;
+}
+
+.text{
+        text-align: center;
+}
+.flexible-container{
+        display: flex;
+        margin-bottom: 120px;
+}
+.half-width{
+        width: 50%;
+        
+}
+.spread{
+        margin: 5%;
+        padding-right: 10%;
+}
+.spread1{
+        margin: 7%;
+}
+
+.footer{
+         text-align: center;
+       background-color: black;
+       
+}
+h2{
+        color: tomato;
+}
+#b-color01{
+        background-color: #c4ebeb;
+}
+#b-color02{
+        background-color: #d37676;
+}
+#b-color03{
+        background-color: #dbc3a6;
+}
+.rol{
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-top: 5%;
+        padding-bottom:5%;
+        
+}
+.input{
+        text-align: center;
+        background-color: #dbc3a6;
+        padding: 3%;
+        margin-left: 10%;
+        margin-right: 10%;
+       
+}
+.col1{
+        margin: 5%;
+        background-color: rgb(253, 249, 249);
+        padding: 2%;
+}
+.col2{
+        margin: 5%;
+        border: red solid;
+        background-color: rgb(236, 189, 189);
+        padding: 2%;
+  
+}
+.col3{
+        margin: 5%;
+        background-color: rgb(253, 249, 249);
+        padding: 2%;
+       
+}
+.col4{
+        margin: 5%;
+        background-color: rgb(253, 249, 249);
+        padding: 2%;
+       
+}
+.col5{
+        margin: 5%;
+        background-color: rgb(253, 249, 249);
+        padding: 2%;
+        
+}
+.col{
+        display: flex;
+}
